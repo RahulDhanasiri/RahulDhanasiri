@@ -17,12 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align='left alt="HTML" width="26px" src="https://www.iconfinder.com/icons/65687/5_five_html_html5_logo_pi%C3%A4%C2%99%C3%A4%C2%87_icon" >
-<img align='left alt="HTML" width="26px" src="" >
-<img align='left alt="HTML" width="26px" src="" >
-<img align='left alt="HTML" width="26px" src="" >
-<img align='left alt="HTML" width="26px" src="" >
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualStudio]
 
 
 <br />
@@ -37,4 +32,4 @@
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/rahul_dhanasiri
 [linkedin]: https://linkedin.com/in/rahul-dhanasiri
-[doNothing]: 
+[visualStudio]: https://www.youtube.com/watch?v=4NfFFsQC77M
