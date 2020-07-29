@@ -32,4 +32,4 @@
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/rahul_dhanasiri
 [linkedin]: https://linkedin.com/in/rahul-dhanasiri
-[doNothing]: "#"
+[doNothing]: ""
