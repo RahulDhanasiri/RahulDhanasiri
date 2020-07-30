@@ -2,7 +2,7 @@
 
 ## I'm a graduate student at the University of Illinois at Chicago pursuing a Master's in Business Analytics.
 <!-- 🔭 I’m currently working on a [VS Code Course][website]! -->
-- 🌱 I’m currently learning Data Structures & Algorithms, Nueral Networks, Big Data Analytics.
+- 🌱 I’m currently learning Data Structures & Algorithms, Neural Networks, Big Data Analytics.
 - 🥅 2020 Goals: Work on projects related to OpenCV and GTP3; Get an internship.
 
 ### Connect with me:
