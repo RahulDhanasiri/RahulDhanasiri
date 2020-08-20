@@ -12,6 +12,7 @@
 [<img align="left" alt="RahulDhanasiri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="RahulDhanasiri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RahulDhanasiri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="RahulDhanasiri | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][Tableau]
 
 <br />
 
@@ -47,4 +48,5 @@
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/rahul_dhanasiri
 [linkedin]: https://linkedin.com/in/rahul-dhanasiri
+[Tableau]: https://public.tableau.com/profile/rahul.dhanasiri
 [visualStudio]: https://www.youtube.com/watch?v=4NfFFsQC77M
