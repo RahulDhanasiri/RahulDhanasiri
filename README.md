@@ -1,6 +1,6 @@
 ### Hi there, I am Rahul 👋
 
-## I'm a graduate student at the University of Illinois at Chicago pursuing a Masters in Business Analytics.
+## I recently graduated from the University of Illinois at Chicago with a Masters in Business Analytics. I'm currently looking for full time opportunities.
 <!-- 🔭 I’m currently working on a [VS Code Course][website]! -->
 - 🌱 I’m currently learning Data Structures & Algorithms, Neural Networks, Big Data Analytics.
 
